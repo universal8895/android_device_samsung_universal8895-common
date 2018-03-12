@@ -120,7 +120,7 @@ PRODUCT_PACKAGES += \
 # Memory
 PRODUCT_PACKAGES += \
     android.hardware.memtrack@1.0-impl \
-    android.hardware.memtrack@1.0-service \
+    android.hardware.memtrack@1.0-service 
 
 # Radio
 PRODUCT_PACKAGES += \
